@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning:
   `Rust`
   `Postgresql`
-  `Go`
   `Api develop`
   `docker`
+  `CyberSec`
 - 📫 How to reach me:
   `j.kriger002@edu.pucrs.br`
 
