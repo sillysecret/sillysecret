@@ -3,7 +3,7 @@
 ### Olá, meu nome é João Pedro da Silva Kriger!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=João Pedro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+<img align="rigth"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 
 <p>Estudando na PUCRS<br/> Eu sou desenvolvedor {Back-end & Cybersec}</p>
 
