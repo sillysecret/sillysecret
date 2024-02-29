@@ -1,4 +1,4 @@
-### Ola. bem vindo ao meu canto dev!
+### Ola! bem vindo ao meu canto dev!
 
 
 <div style="display: inline_block"><br>
