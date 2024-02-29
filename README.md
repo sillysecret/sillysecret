@@ -12,7 +12,7 @@
 
 <p>Estudando na PUCRS<br/> Eu sou desenvolvedor {Back-end & Cybersec}</p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/></li>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/></li>
 
 
 <div style="display: inline_block"><br>
