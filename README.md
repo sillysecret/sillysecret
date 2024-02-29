@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é {João Pedro da Silva Kriger}!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=João Pedro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudando na {PUCRS}<br/> Eu sou desenvolvedor {Back-end & Cybersec}</p>
 
