@@ -1,6 +1,6 @@
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
-##  Hi, i'm JP Kriger👋
+##  Hi, i'm JP Kriger!👋
 <div>
   <a href="https://github.com/sillysecret">
      <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&layout=compact&langs_count=9&theme=tokyonight"/>
