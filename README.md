@@ -1,31 +1,32 @@
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
-
-
-
-### Olá, meu nome é João Pedro da Silva Kriger!
-
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=João Pedro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></li>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sillysecret&show_icons=true&theme=dark" alt="ilustração do status do github"></li>
-
-
-
-<p>Estudando na PUCRS<br/> Eu sou desenvolvedor Back-end & Cybersec</p>
-
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" padding="4px8px" border-radius="5px" height="28" width="83" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img align="center"  padding="4px8px" border-radius="5px" height="28" width="83" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center"  height="28" width="83"  padding="4px8px" border-radius="5px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center"  height="28" width="83"  padding="4px8px" border-radius="5px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center"  height="28" width="83"  padding="4px8px" border-radius="5px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center"  height="28" width="83"   padding="4px8px" border-radius="5px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-
-</div>
-
-
+##  Hi, i'm JP Kriger👋
+<div>
+  <a href="https://github.com/sillysecret">
+     <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&layout=compact&langs_count=9&theme=tokyonight"/>
+    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=sillysecret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   
+</div>
+  <div style="display: inline_block"><br>
+    <img align="center"  height = "60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
+ <img align="center"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center"  height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+   <img align="center"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center"  height = "60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center"  height = "60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+    
+</div>
+  
+  ##
 
-
+     
+       
+ - =================================================        
+ - I’m currently learning Software Engineering in PUCRS
+ - I’m looking for help with Cyber security
+ - I have experience with linux and rust lang
+ - ==================================================
+ 
+        
+        
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
