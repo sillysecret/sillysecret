@@ -4,8 +4,6 @@
 <div>
   <a href="https://github.com/sillysecret">
      <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&layout=compact&langs_count=9&theme=tokyonight"/>
-  
-</div>
   <div style="display: inline_block"><br>
     <img align="center"  height = "60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
      <img align="center"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -16,6 +14,8 @@
     <img align="center"  height = "60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center"  height = "60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
   </div>
+</div>
+
   
   ##
 
