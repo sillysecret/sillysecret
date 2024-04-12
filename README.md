@@ -1,7 +1,5 @@
-<div style="display: flex; align-items: center;">
- 
-
-  <a href="https://github.com/sillysecret" style="margin-left: 20px;">
+<div style="display: flex; align-items: center; flex-direction: column;">
+ <a href="https://github.com/sillysecret" style="margin-left: 20px;">
     <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillysecret&layout=compact&langs_count=9&theme=tokyonight"/>
   </a>
    <div style="display: flex; flex-direction: column; margin-right: 20px;">
